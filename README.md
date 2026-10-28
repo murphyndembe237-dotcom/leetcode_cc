@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0403-frog-jump) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/1143-longest-common-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
