@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0084-largest-rectangle-in-histogram) |
 | [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0403-frog-jump) |
 ## Stack
 |  |
@@ -93,5 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0403-frog-jump) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
