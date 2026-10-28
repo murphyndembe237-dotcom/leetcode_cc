@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
