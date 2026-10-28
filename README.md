@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0403-frog-jump) |
+| [1143-longest-common-subsequence](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
