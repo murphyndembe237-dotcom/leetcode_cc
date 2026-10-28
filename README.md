@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0084-largest-rectangle-in-histogram) |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -74,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/murphyndembe237-dotcom/leetcode_cc/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
